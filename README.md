@@ -37,6 +37,7 @@ The goal of NLP is to enable computers to understand, interpret, and generate hu
 
 1. Quora Questions Similarity Prediction
 2. SMS-Spam Classification (Spam/Ham)
+3. Indian Elections Sentiment Analysis (Modi vs Rahul)
 
 ## Contributing
 
