@@ -35,9 +35,9 @@ The goal of NLP is to enable computers to understand, interpret, and generate hu
 
 ## Projects:
 
-1. [Quora Questions Similarity Prediction](#[1_QuoraQuestionsSimilarityTraining.ipynb](https://github.com/Shaan2522/NLP-Projects/blob/main/1_QuoraQuestionsSimilarityTraining.ipynb))
-2. [SMS-Spam Classification (Spam/Ham)](#https://github.com/Shaan2522/NLP-Projects/blob/main/2_sms_spam_classification.ipynb)
-3. [Indian Elections Sentiment Analysis (Modi vs Rahul)](#https://github.com/Shaan2522/NLP-Projects/blob/main/3_IndianElections_SentimentAnalysis.ipynb)
+1. [Quora Questions Similarity Prediction](https://github.com/Shaan2522/NLP-Projects/blob/main/1_QuoraQuestionsSimilarityTraining.ipynb)
+2. [SMS-Spam Classification (Spam/Ham)](https://github.com/Shaan2522/NLP-Projects/blob/main/2_sms_spam_classification.ipynb)
+3. [Indian Elections Sentiment Analysis (Modi vs Rahul)](https://github.com/Shaan2522/NLP-Projects/blob/main/3_IndianElections_SentimentAnalysis.ipynb)
 
 ## Contributing
 
